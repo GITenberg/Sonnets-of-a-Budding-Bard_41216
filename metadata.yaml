@@ -1,0 +1,33 @@
+_repo: Sonnets-of-a-Budding-Bard_41216
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Williams, John A.
+    gutenberg_agent_id: '41041'
+    url: http://www.gutenberg.org/2009/agents/41041
+covers:
+- cover_type: archival
+  image_path: 41216-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Waterman, Nixon
+    alias: Martin, Peter
+    birthdate: 1859
+    deathdate: 1944
+    gutenberg_agent_id: '32171'
+    url: http://www.gutenberg.org/2009/agents/32171
+description: ''
+gutenberg_issued: '2012-10-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41216'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sonnets'
+- !lcc 'PS'
+- !lcsh 'Humorous poetry, American'
+title: Sonnets of a Budding Bard
+url: http://www.gutenberg.org/ebooks/41216
