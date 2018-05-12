@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '32171'
     url: http://www.gutenberg.org/2009/agents/32171
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41216#Sonnets-of-a-Budding-Bard
 gutenberg_issued: '2012-10-28'
 gutenberg_type: Text
 identifiers:
